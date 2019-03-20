@@ -2,4 +2,5 @@
 Literally just the ding noise.
 
 ## Use
-Download ding.h into your working directory. #include<"ding.h">
+Download ding.h into your working directory. \
+#include<"ding.h">
